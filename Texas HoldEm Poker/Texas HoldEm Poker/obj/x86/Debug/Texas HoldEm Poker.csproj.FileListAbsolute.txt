@@ -1,0 +1,858 @@
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\btnFont.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\btnHoverFont.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Big Blind.xnb
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Small Blind.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Big Blind.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Small Blind.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Big Blind.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Small Blind.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Big Blind.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Small Blind.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.pdb
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.exe.manifest
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Texas HoldEm Poker.application
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe.manifest
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.application
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Big Blind.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Small Blind.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.csprojResolveAssemblyReference.cache
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.exe
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\Texas HoldEm Poker.pdb

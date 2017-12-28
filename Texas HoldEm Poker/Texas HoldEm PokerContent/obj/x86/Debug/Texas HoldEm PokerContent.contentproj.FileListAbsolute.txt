@@ -1,0 +1,10 @@
+G:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+F:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+J:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V1 - Copy\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+C:\Users\rony\Desktop\USB Backup\Programming\Texas HoldEm Poker V2\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+E:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+G:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+J:\Programming\Texas HoldEm Poker V3\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+E:\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache
+C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm PokerContent\obj\x86\Debug\Texas HoldEm PokerContent.contentprojResolveAssemblyReference.cache

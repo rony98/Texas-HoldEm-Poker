@@ -1,0 +1,714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background\Main Background.jpg</Source>
+      <Name>Background\Main Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Main Background.xnb</Output>
+      <Time>2014-12-18T12:55:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Poker Table.jpg</Source>
+      <Name>Background\Poker Table</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table.xnb</Output>
+      <Time>2014-12-18T18:06:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card1.png</Source>
+      <Name>Cards\Card1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card1.xnb</Output>
+      <Time>2014-12-23T10:37:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card2.png</Source>
+      <Name>Cards\Card2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card2.xnb</Output>
+      <Time>2014-12-23T10:37:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card3.png</Source>
+      <Name>Cards\Card3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card3.xnb</Output>
+      <Time>2014-12-23T10:38:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card4.png</Source>
+      <Name>Cards\Card4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card4.xnb</Output>
+      <Time>2014-12-23T10:39:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card5.png</Source>
+      <Name>Cards\Card5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card5.xnb</Output>
+      <Time>2014-12-23T10:39:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card6.png</Source>
+      <Name>Cards\Card6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card6.xnb</Output>
+      <Time>2014-12-23T10:40:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card7.png</Source>
+      <Name>Cards\Card7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card7.xnb</Output>
+      <Time>2014-12-23T10:41:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card8.png</Source>
+      <Name>Cards\Card8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card8.xnb</Output>
+      <Time>2014-12-23T10:41:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card9.png</Source>
+      <Name>Cards\Card9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card9.xnb</Output>
+      <Time>2014-12-23T10:42:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card10.png</Source>
+      <Name>Cards\Card10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card10.xnb</Output>
+      <Time>2014-12-23T10:42:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card11.png</Source>
+      <Name>Cards\Card11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card11.xnb</Output>
+      <Time>2014-12-23T10:42:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card12.png</Source>
+      <Name>Cards\Card12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card12.xnb</Output>
+      <Time>2014-12-23T10:42:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card13.png</Source>
+      <Name>Cards\Card13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card13.xnb</Output>
+      <Time>2014-12-23T10:43:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card14.png</Source>
+      <Name>Cards\Card14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card14.xnb</Output>
+      <Time>2014-12-23T10:44:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card15.png</Source>
+      <Name>Cards\Card15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card15.xnb</Output>
+      <Time>2014-12-23T10:48:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card16.png</Source>
+      <Name>Cards\Card16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card16.xnb</Output>
+      <Time>2014-12-23T10:48:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card17.png</Source>
+      <Name>Cards\Card17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card17.xnb</Output>
+      <Time>2014-12-23T10:48:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card18.png</Source>
+      <Name>Cards\Card18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card18.xnb</Output>
+      <Time>2014-12-23T10:49:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card19.png</Source>
+      <Name>Cards\Card19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card19.xnb</Output>
+      <Time>2014-12-23T10:49:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card20.png</Source>
+      <Name>Cards\Card20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card20.xnb</Output>
+      <Time>2014-12-23T10:49:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card21.png</Source>
+      <Name>Cards\Card21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card21.xnb</Output>
+      <Time>2014-12-23T10:50:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card22.png</Source>
+      <Name>Cards\Card22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card22.xnb</Output>
+      <Time>2014-12-23T10:50:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card23.png</Source>
+      <Name>Cards\Card23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card23.xnb</Output>
+      <Time>2014-12-23T10:50:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card24.png</Source>
+      <Name>Cards\Card24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card24.xnb</Output>
+      <Time>2014-12-23T10:51:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card25.png</Source>
+      <Name>Cards\Card25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card25.xnb</Output>
+      <Time>2014-12-23T10:51:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card26.png</Source>
+      <Name>Cards\Card26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card26.xnb</Output>
+      <Time>2014-12-23T10:51:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card27.png</Source>
+      <Name>Cards\Card27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card27.xnb</Output>
+      <Time>2014-12-23T10:52:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card28.png</Source>
+      <Name>Cards\Card28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card28.xnb</Output>
+      <Time>2014-12-23T10:52:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card29.png</Source>
+      <Name>Cards\Card29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card29.xnb</Output>
+      <Time>2014-12-23T10:53:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card30.png</Source>
+      <Name>Cards\Card30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card30.xnb</Output>
+      <Time>2014-12-23T10:53:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card31.png</Source>
+      <Name>Cards\Card31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card31.xnb</Output>
+      <Time>2014-12-23T10:53:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card32.png</Source>
+      <Name>Cards\Card32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card32.xnb</Output>
+      <Time>2014-12-23T10:53:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card33.png</Source>
+      <Name>Cards\Card33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card33.xnb</Output>
+      <Time>2014-12-23T10:53:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card34.png</Source>
+      <Name>Cards\Card34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card34.xnb</Output>
+      <Time>2014-12-23T10:54:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card35.png</Source>
+      <Name>Cards\Card35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card35.xnb</Output>
+      <Time>2014-12-23T10:54:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card36.png</Source>
+      <Name>Cards\Card36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card36.xnb</Output>
+      <Time>2014-12-23T10:54:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card37.png</Source>
+      <Name>Cards\Card37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card37.xnb</Output>
+      <Time>2014-12-23T10:55:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card38.png</Source>
+      <Name>Cards\Card38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card38.xnb</Output>
+      <Time>2014-12-23T10:55:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card39.png</Source>
+      <Name>Cards\Card39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card39.xnb</Output>
+      <Time>2014-12-23T10:55:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card40.png</Source>
+      <Name>Cards\Card40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card40.xnb</Output>
+      <Time>2014-12-23T10:56:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card41.png</Source>
+      <Name>Cards\Card41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card41.xnb</Output>
+      <Time>2014-12-23T10:56:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card42.png</Source>
+      <Name>Cards\Card42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card42.xnb</Output>
+      <Time>2014-12-23T10:56:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card43.png</Source>
+      <Name>Cards\Card43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card43.xnb</Output>
+      <Time>2014-12-23T10:56:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card44.png</Source>
+      <Name>Cards\Card44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card44.xnb</Output>
+      <Time>2014-12-23T10:57:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card45.png</Source>
+      <Name>Cards\Card45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card45.xnb</Output>
+      <Time>2014-12-23T10:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card46.png</Source>
+      <Name>Cards\Card46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card46.xnb</Output>
+      <Time>2014-12-23T10:58:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card47.png</Source>
+      <Name>Cards\Card47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card47.xnb</Output>
+      <Time>2014-12-23T10:58:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card48.png</Source>
+      <Name>Cards\Card48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card48.xnb</Output>
+      <Time>2014-12-23T10:58:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card49.png</Source>
+      <Name>Cards\Card49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card49.xnb</Output>
+      <Time>2014-12-23T10:58:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card50.png</Source>
+      <Name>Cards\Card50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card50.xnb</Output>
+      <Time>2014-12-23T10:58:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card51.png</Source>
+      <Name>Cards\Card51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card51.xnb</Output>
+      <Time>2014-12-23T10:59:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Card52.png</Source>
+      <Name>Cards\Card52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Card52.xnb</Output>
+      <Time>2014-12-23T10:59:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Back of Cards.png</Source>
+      <Name>Cards\Back of Cards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Cards\Back of Cards.xnb</Output>
+      <Time>2014-12-23T11:00:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Poker Chips\Black Poker Chip.png</Source>
+      <Name>Poker Chips\Black Poker Chip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Black Poker Chip.xnb</Output>
+      <Time>2014-12-25T18:50:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Poker Chips\Blue Poker Chip.png</Source>
+      <Name>Poker Chips\Blue Poker Chip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Blue Poker Chip.xnb</Output>
+      <Time>2014-12-25T18:50:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Poker Chips\Green Poker Chip.png</Source>
+      <Name>Poker Chips\Green Poker Chip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Green Poker Chip.xnb</Output>
+      <Time>2014-12-25T18:51:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Poker Chips\Red Poker Chip.png</Source>
+      <Name>Poker Chips\Red Poker Chip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\Red Poker Chip.xnb</Output>
+      <Time>2014-12-25T18:51:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Poker Chips\White Poker Chip.png</Source>
+      <Name>Poker Chips\White Poker Chip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Poker Chips\White Poker Chip.xnb</Output>
+      <Time>2014-12-25T18:51:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Poker Table V2.jpg</Source>
+      <Name>Background\Poker Table V2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Background\Poker Table V2.xnb</Output>
+      <Time>2014-12-27T12:23:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player Info\Empty Seat.png</Source>
+      <Name>Player Info\Empty Seat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Empty Seat.xnb</Output>
+      <Time>2014-12-29T12:54:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player Info\Player Seat.png</Source>
+      <Name>Player Info\Player Seat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Player Seat.xnb</Output>
+      <Time>2014-12-29T12:58:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player Info\Current Player Seat.png</Source>
+      <Name>Player Info\Current Player Seat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Player Info\Current Player Seat.xnb</Output>
+      <Time>2015-01-06T15:44:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blind Chips\Big Blind.png</Source>
+      <Name>Blind Chips\Big Blind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Big Blind.xnb</Output>
+      <Time>2015-01-18T01:40:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blind Chips\Small Blind.png</Source>
+      <Name>Blind Chips\Small Blind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Blind Chips\Small Blind.xnb</Output>
+      <Time>2015-01-18T01:40:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Fonts\Menu Button Font.spritefont</Source>
+      <Name>Text Fonts\Menu Button Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Font.xnb</Output>
+      <Time>2014-12-18T16:51:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Fonts\Menu Button Hover Font.spritefont</Source>
+      <Name>Text Fonts\Menu Button Hover Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Menu Button Hover Font.xnb</Output>
+      <Time>2014-12-18T17:00:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Fonts\Bet Button Font.spritefont</Source>
+      <Name>Text Fonts\Bet Button Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Font.xnb</Output>
+      <Time>2014-12-27T19:28:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Fonts\Bet Button Hover Font.spritefont</Source>
+      <Name>Text Fonts\Bet Button Hover Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Bet Button Hover Font.xnb</Output>
+      <Time>2014-12-27T21:58:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Fonts\Player Info Font.spritefont</Source>
+      <Name>Text Fonts\Player Info Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Player Info Font.xnb</Output>
+      <Time>2014-12-29T14:24:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Fonts\Pause Button Font.spritefont</Source>
+      <Name>Text Fonts\Pause Button Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Font.xnb</Output>
+      <Time>2015-01-02T22:07:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Text Fonts\Pause Button Hover Font.spritefont</Source>
+      <Name>Text Fonts\Pause Button Hover Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Text Fonts\Pause Button Hover Font.xnb</Output>
+      <Time>2015-01-02T22:07:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Poker Background Music.mp3</Source>
+      <Name>Audio\Poker Background Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.xnb</Output>
+      <Extra>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\Audio\Poker Background Music.wma</Extra>
+      <Time>2015-01-12T23:41:58-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D64EA928-FD18-4920-AE9C-87EE2D92D475}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm PokerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\verch\Desktop\Programming\Texas HoldEm Poker\Texas HoldEm Poker\Texas HoldEm Poker\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-05-17T13:40:05.9742499-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
