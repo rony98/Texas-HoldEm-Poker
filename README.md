@@ -2,7 +2,7 @@
 
 A Texas HoldEm Poker game with features such as playing an AI and, playing against others on the same network. The project includes the client, the application for playing Texas HoldEm Poker, both against AI or with others on the same network, and the server which is used for the different clients to communicate within a network.
 
-The network is given to the client. As a result, if an external server IP is available, running the server application on the external server would allow different networks to play together as long as these networks can connect to the external server.
+The network IP address is given to the client. As a result, if an external server IP is available, running the server application on the external server would allow different networks to play together as long as these networks can connect to the external server.
 
 ## Getting Started
 
