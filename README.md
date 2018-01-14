@@ -10,19 +10,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-In order to run the application, XNA 4.0 is required to be installed. 
-
-```
-Install XNA 4.0 using the following URL:
-https://mxa.codeplex.com/releases/view/618279
-```
-
-In order to view the project, Visual Studio is recommended to be installed.
+In order to run the project, Visual Studio is required. A version of Visual Studio that is compatible with XNA 4.0 is required. 
 
 ```
 Install Visual Studio using the following URL:
-https://mxa.codeplex.com/releases/view/618279
+https://www.visualstudio.com/downloads/
 ```
+
+In order to run the application, XNA 4.0 is required to be installed. 
+
+```
+Install XNA 4.0 for Visual Studio using the following URL:
+https://mxa.codeplex.com/releases
+```
+
+If the above URL doesn't contain XNA 4.0 for the version of Visual Studio that you have, it means that XNA 4.0 is not officially supported for your version of Visual Studio. 
 
 ## Running Application
 
